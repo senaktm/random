@@ -1,0 +1,553 @@
+{
+  "DebtPaymentComDepartmentDynamicLayoutData": [
+    {
+      "__type": "Entity.DynamicEntities.DynamicLayoutData",
+      "DynamicRowDataList": [
+        {
+          "__type": "Entity.DynamicEntities.DynamicRowData",
+          "DynamicViewItemDataList": [
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "9902",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            }
+          ],
+          "Index": null
+        },
+        {
+          "__type": "Entity.DynamicEntities.DynamicRowData",
+          "DynamicViewItemDataList": [
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "TAHA TEVFİKHANŞÇİĞMALALDI",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            }
+          ],
+          "Index": null
+        },
+        {
+          "__type": "Entity.DynamicEntities.DynamicRowData",
+          "DynamicViewItemDataList": [
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "Hesap Kesim Tarihi",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            },
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "01-06-2025",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            }
+          ],
+          "Index": null
+        },
+        {
+          "__type": "Entity.DynamicEntities.DynamicRowData",
+          "DynamicViewItemDataList": [
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "Son Ödeme Tarihi",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            },
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "06-06-2025",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            }
+          ],
+          "Index": null
+        },
+        {
+          "__type": "Entity.DynamicEntities.DynamicRowData",
+          "DynamicViewItemDataList": [
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "Asgari Tutar",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            },
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "5823.29 TL\r\n0.00 USD\r\n0.00 EUR",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            }
+          ],
+          "Index": null
+        },
+        {
+          "__type": "Entity.DynamicEntities.DynamicRowData",
+          "DynamicViewItemDataList": [
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "Kalan Hesap Özeti Borcu",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            },
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "58926.68 TL\r\n0.00 USD\r\n0.00 EUR",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            }
+          ],
+          "Index": null
+        }
+      ],
+      "CustomProperties": [],
+      "Index": "1852412085"
+    },
+    {
+      "__type": "Entity.DynamicEntities.DynamicLayoutData",
+      "DynamicRowDataList": [
+        {
+          "__type": "Entity.DynamicEntities.DynamicRowData",
+          "DynamicViewItemDataList": [
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "10046",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            }
+          ],
+          "Index": null
+        },
+        {
+          "__type": "Entity.DynamicEntities.DynamicRowData",
+          "DynamicViewItemDataList": [
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "TAHA TEVFİKHANŞÇİĞMALALDI",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            }
+          ],
+          "Index": null
+        },
+        {
+          "__type": "Entity.DynamicEntities.DynamicRowData",
+          "DynamicViewItemDataList": [
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "Hesap Kesim Tarihi",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            },
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "12-06-2025",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            }
+          ],
+          "Index": null
+        },
+        {
+          "__type": "Entity.DynamicEntities.DynamicRowData",
+          "DynamicViewItemDataList": [
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "Son Ödeme Tarihi",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            },
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "25-06-2025",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            }
+          ],
+          "Index": null
+        },
+        {
+          "__type": "Entity.DynamicEntities.DynamicRowData",
+          "DynamicViewItemDataList": [
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "Asgari Tutar",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            },
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "5817.73 TL\r\n0.00 USD",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            }
+          ],
+          "Index": null
+        },
+        {
+          "__type": "Entity.DynamicEntities.DynamicRowData",
+          "DynamicViewItemDataList": [
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "Kalan Hesap Özeti Borcu",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            },
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "50252.05 TL\r\n0.00 USD",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            }
+          ],
+          "Index": null
+        }
+      ],
+      "CustomProperties": [],
+      "Index": "-1900216134"
+    },
+    {
+      "__type": "Entity.DynamicEntities.DynamicLayoutData",
+      "DynamicRowDataList": [
+        {
+          "__type": "Entity.DynamicEntities.DynamicRowData",
+          "DynamicViewItemDataList": [
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "10047",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            }
+          ],
+          "Index": null
+        },
+        {
+          "__type": "Entity.DynamicEntities.DynamicRowData",
+          "DynamicViewItemDataList": [
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "TAHA TEVFİKHANŞÇİĞMALALDI",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            }
+          ],
+          "Index": null
+        },
+        {
+          "__type": "Entity.DynamicEntities.DynamicRowData",
+          "DynamicViewItemDataList": [
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "Hesap Kesim Tarihi",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            },
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "12-06-2025",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            }
+          ],
+          "Index": null
+        },
+        {
+          "__type": "Entity.DynamicEntities.DynamicRowData",
+          "DynamicViewItemDataList": [
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "Son Ödeme Tarihi",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            },
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "25-06-2025",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            }
+          ],
+          "Index": null
+        },
+        {
+          "__type": "Entity.DynamicEntities.DynamicRowData",
+          "DynamicViewItemDataList": [
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "Asgari Tutar",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            },
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "15754.58 TL\r\n0.00 USD\r\n0.00 EUR",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            }
+          ],
+          "Index": null
+        },
+        {
+          "__type": "Entity.DynamicEntities.DynamicRowData",
+          "DynamicViewItemDataList": [
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "Kalan Hesap Özeti Borcu",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            },
+            {
+              "__type": "Entity.DynamicEntities.DynamicViewItemData",
+              "Text": "78772.90 TL\r\n0.00 USD\r\n0.00 EUR",
+              "IconUrl": null,
+              "LocaleImageName": null,
+              "TextColor": "Label",
+              "IsVisible": null,
+              "IsSearchable": false,
+              "SubText": null,
+              "SubTextColor": null,
+              "SubtitleAction": null,
+              "TutorialData": null,
+              "Index": null
+            }
+          ],
+          "Index": null
+        }
+      ],
+      "CustomProperties": [],
+      "Index": "828667221"
+    }
+  ]
+}
